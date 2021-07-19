@@ -1,0 +1,710 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+#Web_1920__8 {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    background-color: rgba(17,17,17,1);
+    overflow: hidden;
+}
+
+#Background_image{
+    opacity: 0.21;
+    position: absolute;
+    width: 1920px;
+    height: 2560px;
+    left: 0px;
+    top: -809px;
+    overflow: visible;
+}
+
+#BOMBAY_BITES {
+    left: 306px;
+    top: 108px;
+    position: absolute;
+    overflow: visible;
+    width: 316px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 50px;
+    color: rgba(255,255,255,1);
+}
+
+#TODAYS_SPECIAL {
+    left: 744px;
+    top: 228.5px;
+    position: absolute;
+    overflow: visible;
+    width: 442px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 60px;
+    color: rgba(255,204,0,1);
+}
+
+#Repeat_Grid_1 {
+    position: absolute;
+    width: 1633px;
+    height: 677px;
+    left: 144px;
+    top: 387px;
+    overflow: hidden;
+}
+
+#Repeat_Grid_1_0 {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Rectangle_4 {
+    fill: rgba(255,255,255,1);
+}
+
+.Rectangle_4 {
+    position: absolute;
+    overflow: visible;
+    width: 300px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+}
+
+#food-garnished-with-greens {
+    position: absolute;
+    width: 263px;
+    height: 176px;
+    left: 19px;
+    top: 20px;
+    overflow: visible;
+}
+
+#Pas_Pasta {
+    left: 23px;
+    top: 202px;
+    position: absolute;
+    overflow: visible;
+    width: 136px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 33px;
+    color: rgba(0,0,0,1);
+}
+
+#Neque_porro__quisquam_est_qui_ {
+    left: 23px;
+    top: 246px;
+    position: absolute;
+    overflow: visible;
+    width: 119px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 15px;
+    color: rgba(171,171,171,1);
+}
+
+#Repeat_Grid_1_1 {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 334px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Rectangle_4_x {
+    fill: rgba(255,255,255,1);
+}
+
+.Rectangle_4_x {
+    position: absolute;
+    overflow: visible;
+    width: 300px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+}
+
+#pub-food-spread {
+    position: absolute;
+    width: 263px;
+    height: 176px;
+    left: 19px;
+    top: 20px;
+    overflow: visible;
+}
+
+#Pizza {
+    left: 23px;
+    top: 202px;
+    position: absolute;
+    overflow: visible;
+    width: 76px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 33px;
+    color: rgba(0,0,0,1);
+}
+
+#Neque_porro__quisquam_est_qui__ {
+    left: 23px;
+    top: 246px;
+    position: absolute;
+    overflow: visible;
+    width: 119px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 15px;
+    color: rgba(171,171,171,1);
+}
+
+#Repeat_Grid_1_2 {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 668px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Rectangle_4_ {
+    fill: rgba(255,255,255,1);
+}
+
+.Rectangle_4_ {
+    position: absolute;
+    overflow: visible;
+    width: 300px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+}
+
+#indian-food-on-restaurant-tabl {
+    position: absolute;
+    width: 263px;
+    height: 176px;
+    left: 19px;
+    top: 20px;
+    overflow: visible;
+}
+
+#Biryani {
+    left: 23px;
+    top: 202px;
+    position: absolute;
+    overflow: visible;
+    width: 103px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 33px;
+    color: rgba(0,0,0,1);
+}
+
+#Neque_porro__quisquam_est_qui__ba {
+    left: 23px;
+    top: 246px;
+    position: absolute;
+    overflow: visible;
+    width: 119px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 15px;
+    color: rgba(171,171,171,1);
+}
+
+#Repeat_Grid_1_3 {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 1002px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Rectangle_4_bf {
+    fill: rgba(255,255,255,1);
+}
+
+.Rectangle_4_bf {
+    position: absolute;
+    overflow: visible;
+    width: 300px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+}
+
+#fried-chicken-wings-pub-food {
+    position: absolute;
+    width: 263px;
+    height: 176px;
+    left: 19px;
+    top: 20px;
+    overflow: visible;
+}
+
+#Wings {
+    left: 23px;
+    top: 202px;
+    position: absolute;
+    overflow: visible;
+    width: 86px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 33px;
+    color: rgba(0,0,0,1);
+}
+
+#Neque_porro__quisquam_est_qui__bi {
+    left: 23px;
+    top: 246px;
+    position: absolute;
+    overflow: visible;
+    width: 119px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 15px;
+    color: rgba(171,171,171,1);
+}
+
+#Repeat_Grid_1_4 {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 1336px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Rectangle_4_bo {
+    fill: rgba(255,255,255,1);
+}
+
+.Rectangle_4_bo {
+    position: absolute;
+    overflow: visible;
+    width: 300px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+}
+
+#moroccan-meal-in-tagine {
+    position: absolute;
+    width: 263px;
+    height: 176px;
+    left: 19px;
+    top: 20px;
+    overflow: visible;
+}
+
+#Idli {
+    left: 23px;
+    top: 202px;
+    position: absolute;
+    overflow: visible;
+    width: 48px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 33px;
+    color: rgba(0,0,0,1);
+}
+
+#Neque_porro__quisquam_est_qui__br {
+    left: 23px;
+    top: 246px;
+    position: absolute;
+    overflow: visible;
+    width: 119px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 15px;
+    color: rgba(171,171,171,1);
+}
+
+#Repeat_Grid_1_5 {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 0px;
+    top: 341px;
+    overflow: visible;
+}
+
+#Rectangle_4_bx {
+    fill: rgba(255,255,255,1);
+}
+
+.Rectangle_4_bx {
+    position: absolute;
+    overflow: visible;
+    width: 300px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+}
+
+#plated-meal-with-incredible-pr {
+    position: absolute;
+    width: 263px;
+    height: 176px;
+    left: 19px;
+    top: 20px;
+    overflow: visible;
+}
+
+#Pas_Pasta_bz {
+    left: 23px;
+    top: 202px;
+    position: absolute;
+    overflow: visible;
+    width: 136px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 33px;
+    color: rgba(0,0,0,1);
+}
+
+#Neque_porro__quisquam_est_qui__b {
+    left: 23px;
+    top: 246px;
+    position: absolute;
+    overflow: visible;
+    width: 119px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 15px;
+    color: rgba(171,171,171,1);
+}
+
+#Repeat_Grid_1_6 {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 334px;
+    top: 341px;
+    overflow: visible;
+}
+
+#Rectangle_4_b {
+    fill: rgba(255,255,255,1);
+}
+
+.Rectangle_4_b {
+    position: absolute;
+    overflow: visible;
+    width: 300px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+}
+
+#grilled-japanese-food {
+    position: absolute;
+    width: 263px;
+    height: 176px;
+    left: 19px;
+    top: 20px;
+    overflow: visible;
+}
+
+#Grilled_fish {
+    left: 23px;
+    top: 202px;
+    position: absolute;
+    overflow: visible;
+    width: 164px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 33px;
+    color: rgba(0,0,0,1);
+}
+
+#Neque_porro__quisquam_est_qui__ca {
+    left: 23px;
+    top: 246px;
+    position: absolute;
+    overflow: visible;
+    width: 119px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 15px;
+    color: rgba(171,171,171,1);
+}
+
+#Repeat_Grid_1_7 {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 668px;
+    top: 341px;
+    overflow: visible;
+}
+
+#Rectangle_4_cf {
+    fill: rgba(255,255,255,1);
+}
+
+.Rectangle_4_cf {
+    position: absolute;
+    overflow: visible;
+    width: 300px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+}
+
+#a-spoon-going-in-for-the-first {
+    position: absolute;
+    width: 263px;
+    height: 176px;
+    left: 19px;
+    top: 20px;
+    overflow: visible;
+}
+
+#Capsicum {
+    left: 23px;
+    top: 202px;
+    position: absolute;
+    overflow: visible;
+    width: 141px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 33px;
+    color: rgba(0,0,0,1);
+}
+
+#Neque_porro__quisquam_est_qui__ci {
+    left: 23px;
+    top: 246px;
+    position: absolute;
+    overflow: visible;
+    width: 119px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 15px;
+    color: rgba(171,171,171,1);
+}
+
+#Repeat_Grid_1_8 {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 1002px;
+    top: 341px;
+    overflow: visible;
+}
+
+#Rectangle_4_co {
+    fill: rgba(255,255,255,1);
+}
+
+.Rectangle_4_co {
+    position: absolute;
+    overflow: visible;
+    width: 300px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+}
+
+#fresh-plated-sushi-roll {
+    position: absolute;
+    width: 263px;
+    height: 176px;
+    left: 19px;
+    top: 20px;
+    overflow: visible;
+}
+
+#Sushi_rolls {
+    left: 23px;
+    top: 202px;
+    position: absolute;
+    overflow: visible;
+    width: 149px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 33px;
+    color: rgba(0,0,0,1);
+}
+
+#Neque_porro__quisquam_est_qui__cr {
+    left: 23px;
+    top: 246px;
+    position: absolute;
+    overflow: visible;
+    width: 119px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 15px;
+    color: rgba(171,171,171,1);
+}
+
+#Repeat_Grid_1_9 {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 1336px;
+    top: 341px;
+    overflow: visible;
+}
+
+#Rectangle_4_cx {
+    fill: rgba(255,255,255,1);
+}
+
+.Rectangle_4_cx {
+    position: absolute;
+    overflow: visible;
+    width: 300px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+}
+
+#waffles-for-breakfast {
+    position: absolute;
+    width: 263px;
+    height: 176px;
+    left: 19px;
+    top: 20px;
+    overflow: visible;
+}
+
+#Waffales {
+    left: 23px;
+    top: 202px;
+    position: absolute;
+    overflow: visible;
+    width: 127px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 33px;
+    color: rgba(0,0,0,1);
+}
+
+#Neque_porro__quisquam_est_qui__c {
+    left: 23px;
+    top: 246px;
+    position: absolute;
+    overflow: visible;
+    width: 119px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 15px;
+    color: rgba(171,171,171,1);
+}
+
+#kisspng-catering-food-computer {
+    position: absolute;
+    width: 200px;
+    height: 207.024px;
+    left: 106px;
+    top: 34.976px;
+    overflow: visible;
+}
+
+#Home {
+    left: 1244px;
+    top: 120px;
+    position: absolute;
+    overflow: visible;
+    width: 78px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+
+#About {
+    left: 1675px;
+    top: 120px;
+    position: absolute;
+    overflow: visible;
+    width: 80px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+
+#Contact {
+    left: 1509px;
+    top: 120px;
+    position: absolute;
+    overflow: visible;
+    width: 106px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+
+#Items {
+    left: 1378px;
+    top: 120px;
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Trebuchet MS;
+    font-size: 30px;
+    color: rgba(255,204,0,1);
+}
+
+#Line_1 {
+    fill: transparent;
+    stroke: rgba(255,204,0,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Line_1 {
+    overflow: visible;
+    position: absolute;
+    width: 78.5px;
+    height: 4px;
+    left: 1378px;
+    top: 163.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
