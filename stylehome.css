@@ -1,0 +1,206 @@
+* {
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+#Bg {
+    position: absolute;
+    width: 1920px;
+    height: 1020px;
+    background-color: rgba(17,17,17,1);
+    overflow: hidden;
+}
+
+#street-food-prep {
+    opacity: 0.21;
+    position: absolute;
+    width: 1920px;
+    height: 2560px;
+    left: 0px;
+    top: -809px;
+    overflow: visible;
+}
+
+#BOMBAY_BITES {
+    left: 306px;
+    top: 108px;
+    position: absolute;
+    overflow: visible;
+    width: 316px;
+    white-space: nowrap;
+    font-family: Trebuchet MS;
+    font-size: 50px;
+    color: rgba(255,255,255,1);
+}
+
+#Home {
+    left: 1244px;
+    top: 120px;
+    position: absolute;
+    overflow: visible;
+    width: 78px;
+    white-space: nowrap;
+    font-family: Trebuchet MS;
+    font-size: 30px;
+    color: rgba(255,204,0,1);
+}
+
+#About {
+    left: 1675px;
+    top: 120px;
+    position: absolute;
+    overflow: visible;
+    width: 80px;
+    white-space: nowrap;
+    font-family: Trebuchet MS;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+
+#Contact {
+    left: 1509px;
+    top: 120px;
+    position: absolute;
+    overflow: visible;
+    width: 106px;
+    white-space: nowrap;
+    font-family: Trebuchet MS;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+
+#Items {
+    left: 1378px;
+    top: 120px;
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    white-space: nowrap;
+    font-family: Trebuchet MS;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+
+#Healthy_Food__Healthy_Life {
+    left: 164px;
+    top: 363px;
+    position: absolute;
+    overflow: visible;
+    width: 622px;
+    white-space: nowrap;
+    font-family: Trebuchet MS;
+    font-size: 100px;
+    color: rgba(255,255,255,1);
+}
+
+#It_is_a_long_established_fact_ {
+    opacity: 0;
+    left: 164px;
+    top: 636px;
+    position: absolute;
+    overflow: visible;
+    width: 648px;
+    white-space: nowrap;
+    font-family: Source Sans Pro;
+    font-size: 24px;
+    color: rgba(148,148,148,1);
+}
+
+#Rectangle_1 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+
+#Enter_you_area {
+    opacity: 0.79;
+    left: 334px;
+    top: 850px;
+    position: absolute;
+    overflow: visible;
+    width: 264px;
+    white-space: nowrap;
+    font-family: Trebuchet MS;
+    font-size: 30px;
+    color: rgba(149,147,147,1);
+}
+
+#fname{
+    width: 400px;
+    height: 40px;
+    font-size: 25px;
+    padding-left: 20px;
+    font-family: Trebuchet MS;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+#sub{
+    margin-left: 10px;
+    font-family: Trebuchet MS;
+    font-size: 25px;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    background-color:rgba(255,204,0,1);
+
+}
+
+
+#Find_your_Spot {
+    opacity: 0.79;
+    left: 1313px;
+    top: 905px;
+    position: absolute;
+    overflow: visible;
+    width: 259px;
+    white-space: nowrap;
+    font-family: Trebuchet MS;
+    font-size: 40px;
+    color: rgba(255,255,255,1);
+}
+
+#Line_1 {
+    fill: transparent;
+    stroke: rgba(255,204,0,1);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Line_1 {
+    overflow: visible;
+    position: absolute;
+    width: 81.5px;
+    height: 4px;
+    left: 1244px;
+    top: 163.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+
+#ID6894773 {
+    position: absolute;
+    width: 491px;
+    height: 502px;
+    left: 1268px;
+    top: 281px;
+    overflow: visible;
+}
+
+#kisspng-catering-food-computer {
+    position: absolute;
+    width: 200px;
+    height: 207.024px;
+    left: 106px;
+    top: 34.976px;
+    overflow: visible;
+}
