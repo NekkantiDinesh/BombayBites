@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="stylehome.css">
+<title>Home Page</title>
+
+
+</head>
+<body>
+<div id="Bg">
+	<img id="street-food-prep" src="./Images/street-food-prep.png">
+		
+	<div id="BOMBAY_BITES">
+		<span>BOMBAY BITES</span>
+	</div>
+
+	<div id="Home">
+		<a href="Home.html">Home</a>
+	</div>
+
+	<div id="About">
+		<a href="About.html">About Us</a>
+	</div>
+
+	<div id="Contact">
+		<a href="Contact.html">Contact</a>
+	</div>
+
+	<div id="Items">
+		<a href="Items.html">Items</a>
+	</div>
+
+	
+	<div id="Healthy_Food__Healthy_Life">
+		<span>Healthy Food <br/>Healthy Life</span>
+	</div>
+	
+	<div id="It_is_a_long_established_fact_">
+		<span>It is a long established fact that a reader will be distracted by the <br/>
+			readable content of a page when looking at its layout. <br/>
+			The point of using Lorem Ipsum</span>
+	</div>
+	
+
+	<div id="Enter_you_area">
+
+		<form>
+			<label for="fname">Enter your Zip Code : </label>
+			<input type="text" id="fname" name="fname">
+			<input type="submit" id="sub" value="Submit">
+		</form> 
+
+	</div>
+
+	</div>
+
+	<svg class="Line_1" viewBox="0 0 77.5 4">
+		<path id="Line_1" d="M 0 0 L 77.5 0">
+		</path>
+	</svg>
+
+	<img id="ID6894773" src="./Images/ID6894773.png" >
+
+	<img id="kisspng-catering-food-computer" src="./Images/kisspng-catering-food-computer.png" >
+
+</div>
+<script>
+
+var button = document.getElementById("sub");
+button.onclick=function(){
+		var pin_code=document.getElementById("fname");
+		var pat1=/^\d{6}$/;
+		if(!pat1.test(pin_code.value)){
+			alert("Pin code should be numeric and 6 digits");
+			return false;
+		}	
+}
+	
+</script>
+</body>
+</html>
